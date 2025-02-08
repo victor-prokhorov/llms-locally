@@ -1,0 +1,10 @@
+[package]
+name = "ollama-api"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ollama-rs = { version = "0.2.5", features = ["stream", "tokio", "tokio-stream"] }
+tokio = "1.43.0"
+tokio-macros = "2.5.0"
+tokio-stream = "0.1.17"
