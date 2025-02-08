@@ -1,0 +1,9 @@
+[package]
+name = "pdf-rag"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+langchain-rust = { version = "4.6.0", features = ["pdf-extract"] }
+pdf-extract = "0.8.0"
+tokio = { version = "1.43.0", features = ["full"] }
