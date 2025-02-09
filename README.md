@@ -2,3 +2,5 @@
 - [llama3.2](https://ollama.com/library/llama3.2)
 - [Msty](https://msty.app/)
 - [ollama-rs basic chatbot example](https://github.com/pepperoni21/ollama-rs/blob/0.2.5/ollama-rs/examples/basic_chatbot.rs)
+- [Embedding models](https://ollama.com/blog/embedding-models)
+- [Ollama api does not reject requests with incorrect fields](https://github.com/ollama/ollama/issues/6555)
