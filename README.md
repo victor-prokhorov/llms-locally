@@ -5,3 +5,5 @@
 - [Embedding models](https://ollama.com/blog/embedding-models)
 - [Ollama api does not reject requests with incorrect fields](https://github.com/ollama/ollama/issues/6555)
 - [Generate a chat completion](https://github.com/ollama/ollama/blob/main/docs/api.md#generate-a-chat-completion)
+
+- [Local Agentic RAG without API - Langchain and Agno](https://www.youtube.com/watch?v=qOD_BPjMiwM)
